@@ -4,12 +4,29 @@ hone hone clock是个十分有趣的人体时钟,这个时钟代码分两种一�
 
 ```js
 <script charset="Shift_JIS" 
-	src="http://chabudai.sakura.ne.jp/blogparts/honehoneclock/honehone_clock_tr.js"></script> 
+	src="http://chabudai.sakura.ne.jp/blogparts/honehoneclock/honehone_clock_tr.js">
+</script> 
 ```
 
 或
 
 ```js
 <script charset="Shift_JIS" 
-	src="http://chabudai.sakura.ne.jp/blogparts/honehoneclock/honehone_clock_wh.js"></script>
+	src="http://chabudai.sakura.ne.jp/blogparts/honehoneclock/honehone_clock_wh.js">
+</script>
+```
+
+###实例代码：
+
+```html
+<body>  
+    <div>  
+        <h1>人体时钟</h1>  
+        <div>  
+            <script charset="Shift_JIS" 
+              src="http://chabudai.sakura.ne.jp/blogparts/honehoneclock/honehone_clock_wh.js">
+            </script>  
+        </div>  
+    </div>  
+</body> 
 ```
