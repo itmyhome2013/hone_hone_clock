@@ -1,3 +1,6 @@
+人体时钟
+============
+
 hone hone clock是个十分有趣的人体时钟,这个时钟代码分两种一种是背景透明的,
 
 一种是白色背景的,把你喜欢的代码添加到你的网页中适当位置即可。两种代码如下：
@@ -31,4 +34,4 @@ hone hone clock是个十分有趣的人体时钟,这个时钟代码分两种一�
 </body> 
 ```
 
-效果演示：http://itmyhome.com/hone_hone_clock/
+效果演示：<a href="http://blog.itmyhome.com/hone_hone_clock/" target="_blank">点击</a>
